@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MetehanErol
+- 👀 I like dealing with data
+- 🌱 I am currently learning BigData
+- 📫 metehannerol@gmail.com
